@@ -15,3 +15,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## [install](https://medium.com/@ahmed.nafies/code-documentation-of-the-future-mkdocs-material-tutorial-35e5176d974f)
